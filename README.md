@@ -1,4 +1,5 @@
 # Bitcoin_price
+
 price=int(input("What is Bitcoin price today? (USD):"))
 balance=float(input("How much $ do you have?:"))
 
